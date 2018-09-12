@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="bg">
+        <item name="android:background">#F3DCA2</item>
+    </style>
+
+    <style name="tStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Styles and Material Design</item>
+    </style>
+
+    <style name="ImgStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">345dp</item>
+        <item name="android:cropToPadding">false</item>
+    </style>
+
+    <style name="TxtStyle">
+        <item name="android:textSize">34dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">San Augustin Museum</item>
+    </style>
+
+    <style name="disStyle">
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">28dp</item>
+        <item name="android:text">Calle Real del Palacio Intramuros, Manila, Luzon 1002 Philippines</item>
+    </style>
+
+    <style name="locStyle">
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:text">3.8 km from University of Santo Tomas</item>
+    </style>
+
+    <style name="bStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">NEXT</item>
+    </style>
+    <style name="b2Style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">BACK</item>
+    </style>
+
+</resources>
